@@ -1,7 +1,7 @@
 {
-  "name": "react-stylish-portfolio",
+  "name": "swkeever.github.io",
   "version": "1.0.0",
-  "description": "Stylish Portfolio is a one page Bootstrap portfolio theme with off canvas navigation and smooth scrolling through content sections.",
+  "description": "Sean Keever's webpage.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
