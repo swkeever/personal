@@ -5,8 +5,8 @@ const socialSites = [
     icon: "icon-social-linkedin"
   },
   {
-    link: "https://instagram.com/swkeever",
-    icon: "icon-social-instagram"
+    link: "mailto:swkeever@gmail.com",
+    icon: "far fa-envelope"
   },
   {
     link: "https://github.com/cincinnaticodes",

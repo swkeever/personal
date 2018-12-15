@@ -8,7 +8,7 @@ import Sidebar from "./components/sidebar";
 import Header from "./components/header";
 import AboutSection from "./components/about";
 import ServicesSections from "./components/skills";
-import CalloutSection from "./components/callout";
+import CalloutSection from "./components/contact";
 import PortfolioSection from "./components/portfolio";
 import Interests from "./components/interests";
 import FooterSection from "./components/footer";
