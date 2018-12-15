@@ -19,9 +19,9 @@ const AboutSection = () => (
             </p>
             <a
               className="btn btn-dark btn-xl js-scroll-trigger"
-              href="#portfolio"
+              href="#skills"
             >
-              Portfolio
+              Learn More
             </a>
           </div>
         </div>
