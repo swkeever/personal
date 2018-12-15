@@ -22,9 +22,8 @@ class App extends React.Component {
         <Header />
         <AboutSection />
         <ServicesSections />
-        <CalloutSection />
         <PortfolioSection />
-        <Interests />
+        <CalloutSection />
         <FooterSection />
         <ScrollToTop />
       </div>
