@@ -9,7 +9,7 @@ const socialSites = [
     icon: "far fa-envelope"
   },
   {
-    link: "https://github.com/cincinnaticodes",
+    link: "https://github.com/swkeever",
     icon: "icon-social-github"
   }
 ];
