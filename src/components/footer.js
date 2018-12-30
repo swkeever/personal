@@ -1,10 +1,6 @@
 import React from "react";
 const socialSites = [
   {
-    link: "https://linkedin.com/in/swkeever",
-    icon: "icon-social-linkedin"
-  },
-  {
     link: "mailto:swkeever@gmail.com",
     icon: "far fa-envelope"
   },

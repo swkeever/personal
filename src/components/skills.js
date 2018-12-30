@@ -1,24 +1,26 @@
 import React from "react";
 import ScrollableAnchor from "react-scrollable-anchor";
+
+// currently description is not being used, maybe later I will add something.
 const ServicesOffered = [
   {
     title: "Java",
-    description: "Spring Boot, JUnit, Swing, Gradle",
+    description: "",
     icon: "fab fa-java"
   },
   {
     title: "JavaScript",
-    description: "React, jQuery, vanilla",
+    description: "",
     icon: "fab fa-js"
   },
   {
     title: "HTML/CSS",
-    description: "Bootstrap, Sass",
+    description: "",
     icon: "fas fa-code"
   },
   {
     title: "Python",
-    description: "Anaconda",
+    description: "",
     icon: "fab fa-python"
   }
 ];

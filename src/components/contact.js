@@ -10,7 +10,7 @@ const CalloutSection = () => (
         </h2>
         <a
           className="btn btn-primary btn-xl"
-          href="https://github.com/swkeever/resume/raw/master/pdf/sean-keever-resume.pdf"
+          href="https://github.com/swkeever/resume/raw/master/main.pdf"
         >
           Download CV
         </a>
