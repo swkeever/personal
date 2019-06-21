@@ -4,24 +4,24 @@ import ScrollableAnchor from "react-scrollable-anchor";
 // currently description is not being used, maybe later I will add something.
 const ServicesOffered = [
   {
-    title: "Java",
-    description: "",
-    icon: "fab fa-java"
+    title: "Tools",
+    description: "Git, Docker, Ubuntu",
+    icon: "fas fa-toolbox"
   },
   {
-    title: "JavaScript",
-    description: "",
-    icon: "fab fa-js"
-  },
-  {
-    title: "HTML/CSS",
-    description: "",
+    title: "Languages",
+    description: "Java, C, JavaScript",
     icon: "fas fa-code"
   },
   {
-    title: "Python",
-    description: "",
-    icon: "fab fa-python"
+    title: "Databases",
+    description: "SQL Server, SQL++, Azure",
+    icon: "fas fa-database"
+  },
+  {
+    title: "Hardware",
+    description: "SystemVerilog, FPGA/ASIC design",
+    icon: "fas fa-server"
   }
 ];
 const ServicesSections = () => (
@@ -30,7 +30,7 @@ const ServicesSections = () => (
       <div className="container">
         <div className="content-section-heading">
           <h3 className="text-secondary mb-0">Skills</h3>
-          <h2 className="mb-5">Languages I Speak</h2>
+          <h2 className="mb-5">Languages &amp; Technologies</h2>
         </div>
         <div className="row">
           {ServicesOffered.map((service, index) => (

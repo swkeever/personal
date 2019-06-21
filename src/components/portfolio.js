@@ -8,30 +8,29 @@ const origin = "https://swkeever.github.io"
  */
 const portfolioItems = [
   {
-    imgSrc: "./img/portfolio-1.jpg",
+    imgSrc: "./img/333gle.jpg",
+    heading: "333gle",
+    description: "Google search mock-up. Built in CSE 333 course at the University of Washington.",
+    link: "https://mock-google.herokuapp.com/"
+  },
+  {
+    imgSrc: "./img/campus-paths.jpg",
     heading: "Campus Paths",
-    description: "Find out the shortest path between two buildings at the University of Washington.",
+    description: "Finds the shortest path between two buildings using Dijkstra's algorithm. Built in CSE 331 course at the University of Washington.",
     link: origin + "/campuspaths"
   },
   {
-    imgSrc: "./img/portfolio-2.jpg",
-    heading: "(Old) Personal Page",
-    description:
-      "This was my old personal webpage before I gave it the update you're seeing now. :)",
-    link: origin + "/personal-page-old"
-  },
-  {
-    imgSrc: "./img/portfolio-3.jpg",
+    imgSrc: "./img/todo.jpg",
     heading: "Simple Todo",
     description:
-      "A minimal todo list app with good ol' HTML, CSS, and JavaScript.",
+      "A minimal todo list app with good ol' HTML, CSS, and JavaScript. Built in Colt Steele's Web Developer Bootcamp.",
     link: origin + "/todo"
   },
   {
-    imgSrc: "./img/portfolio-4.jpg",
+    imgSrc: "./img/rbg-game.jpg",
     heading: "The Color Guessing Game",
     description:
-      "If I give you RGB values, can you guess the color?",
+      "If I give you RGB values, can you guess the color? Built in Colt Steele's Web Developer Bootcamp.",
     link: origin + "/colorgame"
   }
 ];

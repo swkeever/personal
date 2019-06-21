@@ -22,7 +22,7 @@ const FooterSection = () => (
       ))}
       </ul>
       <p className="text-muted small mb-0">
-        Copyright &copy; Sean Keever 2018
+        Copyright &copy; Sean Keever 2019
       </p>
     </div>
   </footer>

@@ -5,7 +5,7 @@ const Header = () => (
     <div className="container text-center my-auto">
       <h1 className="mb-1">Sean Keever</h1>
       <h3 className="mb-5">
-        Design. Develop. Deliver.
+        Welcome to my personal page!
       </h3>
       <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">
         Discover

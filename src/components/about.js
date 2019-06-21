@@ -11,11 +11,10 @@ const AboutSection = () => (
               I'm glad you're here!
             </h2>
             <p className="lead mb-5">
-              I am a Junior studying computer science and engineering at the&nbsp;
-              <a href="https://www.cs.washington.edu/" target="_blank">University of Washington</a> in Seattle. 
-              I am driven to develop scalable software and I strive to learn something new every day. 
-              I am currently seeking a software engineering internship for summer 2019. <a href="mailto:swkeever@gmail.com">Let me know</a> if you 
-              know someone looking for a motivated developer. <i class="far fa-smile-beam"></i>
+              I am a senior studying Computer Engineering at the&nbsp;
+              <a href="https://www.cs.washington.edu/" target="_blank">University of Washington</a>. 
+              I will be working with the web development team at <a href="https://www.offerup.com/" target="_blank">OfferUp</a> as an intern this summer.
+              Feel free to <a href="mailto:swkeever@gmail.com">reach out</a> to me if you have any questions!
             </p>
             <a
               className="btn btn-dark btn-xl js-scroll-trigger"
