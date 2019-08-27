@@ -5,22 +5,22 @@ import ScrollableAnchor from "react-scrollable-anchor";
 const ServicesOffered = [
   {
     title: "Tools",
-    description: "Git, Docker, Ubuntu",
+    description: "Git, Ubuntu",
     icon: "fas fa-toolbox"
   },
   {
     title: "Languages",
-    description: "Java, C, JavaScript",
+    description: "JavaScript, Java",
     icon: "fas fa-code"
   },
   {
     title: "Databases",
-    description: "SQL Server, SQL++, Azure",
+    description: "SQL, DynamoDB",
     icon: "fas fa-database"
   },
   {
-    title: "Hardware",
-    description: "SystemVerilog, FPGA/ASIC design",
+    title: "Cloud",
+    description: "AWS",
     icon: "fas fa-server"
   }
 ];
