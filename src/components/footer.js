@@ -7,6 +7,10 @@ const socialSites = [
   {
     link: "https://github.com/swkeever",
     icon: "icon-social-github"
+  },
+  {
+    link: 'https://www.linkedin.com/in/swkeever',
+    icon: 'icon-social-linkedin'
   }
 ];
 const FooterSection = () => (

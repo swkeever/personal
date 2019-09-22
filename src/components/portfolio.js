@@ -8,6 +8,12 @@ const origin = "https://swkeever.github.io"
  */
 const portfolioItems = [
   {
+    imgSrc: './img/nwretina.png',
+    heading: 'NW Retina',
+    description: 'Website built for local retina specialist',
+    link: 'https://www.nwretina.com',
+  },
+  {
     imgSrc: './img/beautimage.png',
     heading: 'Beautimage',
     description: 'A simple way to find beautiful images',

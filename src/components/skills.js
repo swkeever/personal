@@ -5,24 +5,20 @@ import ScrollableAnchor from "react-scrollable-anchor";
 const ServicesOffered = [
   {
     title: "Tools",
-    description: "Git, Ubuntu",
+    description: "Git, Ubuntu, VS Code",
     icon: "fas fa-toolbox"
   },
   {
     title: "Languages",
-    description: "JavaScript, Java",
+    description: "JavaScript, Java, HTML/CSS",
     icon: "fas fa-code"
   },
   {
     title: "Databases",
-    description: "SQL, DynamoDB",
+    description: "MS SQL Server, MongoDB, DynamoDB",
     icon: "fas fa-database"
   },
-  {
-    title: "Cloud",
-    description: "AWS",
-    icon: "fas fa-server"
-  }
+
 ];
 const ServicesSections = () => (
   <ScrollableAnchor id="skills">
@@ -35,7 +31,7 @@ const ServicesSections = () => (
         <div className="row">
           {ServicesOffered.map((service, index) => (
             <div
-              className="col-lg-3 col-md-6 mb-5 mb-lg-0"
+              className="col-lg-4 col-md-6 mb-5 mb-lg-0"
               key={`service_${index}`}
             >
               <span className="service-icon rounded-circle mx-auto mb-3">
