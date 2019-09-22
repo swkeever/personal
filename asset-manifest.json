@@ -1,8 +1,18 @@
 {
-  "main.css": "static/css/main.aef2e222.css",
-  "main.css.map": "static/css/main.aef2e222.css.map",
-  "main.js": "static/js/main.a20dc6b3.js",
-  "main.js.map": "static/js/main.a20dc6b3.js.map",
-  "static/media/bg-contact.jpg": "static/media/bg-contact.60febcf9.jpg",
-  "static/media/bg-masthead.jpg": "static/media/bg-masthead.e5df7897.jpg"
+  "files": {
+    "main.css": "/static/css/main.9ccaa45d.chunk.css",
+    "main.js": "/static/js/main.7519c9f3.chunk.js",
+    "main.js.map": "/static/js/main.7519c9f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc310da8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc310da8.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.4608177f.chunk.js": "/static/js/2.4608177f.chunk.js",
+    "static/js/2.4608177f.chunk.js.map": "/static/js/2.4608177f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.427e44ba479409752794a9e0ab520ec3.js": "/precache-manifest.427e44ba479409752794a9e0ab520ec3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.9ccaa45d.chunk.css.map": "/static/css/main.9ccaa45d.chunk.css.map",
+    "static/media/stylish-portfolio.css": "/static/media/bg-masthead.e5df7897.jpg"
+  }
 }
