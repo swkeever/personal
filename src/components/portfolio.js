@@ -22,13 +22,13 @@ const portfolioItems = [
   {
     imgSrc: "./img/333gle.jpg",
     heading: "333gle",
-    description: "Google search mock-up. Built in CSE 333 course at the University of Washington.",
+    description: "Google Search mock-up built in C/C++.",
     link: "https://mock-google.herokuapp.com/"
   },
   {
     imgSrc: "./img/campus-paths.jpg",
     heading: "Campus Paths",
-    description: "Finds the shortest path between two buildings using Dijkstra's algorithm. Built in CSE 331 course at the University of Washington.",
+    description: "Find the shortest path between two UW buildings.",
     link: origin + "/campuspaths"
   },
 ];
